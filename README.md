@@ -11,6 +11,8 @@ subtractor.py module contains two foreground extractors:
 The OG MOG performs best, both in framerate and foreground extraction, the other two suffer from a lot of salt noise during mask creation.
 KNN also suffers from low framerate.
 
+Demo video at: https://www.youtube.com/watch?v=dx9T59AC6cw
+
 TODO:
-  - add youtube demo video links
+  X - add youtube demo video links (see video link above)
   - Write instructions on how to use
